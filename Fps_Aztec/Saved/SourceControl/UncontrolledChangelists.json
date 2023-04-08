@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Widget/WG_Menu.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Maps/Menu/Map_Menu.umap",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Blueprints/GameMode/GM_Menu/GM_Menu.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Blueprints/Menu/GM_Menu.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Blueprints/Menu/PC_Menu.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Asset/UI/Font/Aztec.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Asset/UI/Font/Aztec_Font.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Asset/UI/Font/New_Wave_Aztec.uasset",
+				"D:/Projet Unreal/GitHub/AztecGame/Fps_Aztec/Content/Asset/UI/Font/New_Wave_Aztec_Font.uasset"
+			]
+		}
+	]
+}
